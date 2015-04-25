@@ -15,7 +15,7 @@ Nothing. People say that it's one of the dumbest animal on Earth. Just like this
 ##Why you should use it?
 - Free of charge hosting of your datastore.
 - Cool name
-- To laugh your teammates
+- To make your teammates laugh
 
 
 
